@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1a2e&height=220&section=header&text=Upendra%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=55&descSize=17" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Upendra%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=55&descSize=17" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+%2B+Next.js+%2B+AI+%F0%9F%A4%96;290%2B+DSA+Problems+Solved+%F0%9F%8F%86;Always+Building+Something+New+%E2%9A%A1" alt="Typing SVG" />
 
@@ -152,6 +152,6 @@ FAQ automation platform that crawls websites and generates structured FAQs via O
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 
 <div align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></div>
