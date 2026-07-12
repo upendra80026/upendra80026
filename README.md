@@ -73,63 +73,10 @@ contact: upendra80026@gmail.com
 
 <br/>
 
-## 💼 Experience
-
-**Trainee — TCIL, Chandigarh, Punjab**  *(June 2025 – Aug 2025)*
-- Built and optimized full-stack MERN applications, improving overall performance by **25%**
-- Designed RESTful APIs, cutting response time by **30%** through efficient routing and query optimization
-- Refactored React components and state management, boosting UI responsiveness and reusability by **20%**
-- Collaborated in an Agile, cross-functional team — reduced reported issues by **15%**
-
-<br/>
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ [Buildr.ai](https://github.com/upendra80026)
-*Aug 2025*
-
-AI-powered website generator that builds full sites from natural-language prompts. Scalable backend with PostgreSQL, Prisma ORM, and NextAuth RBAC — improved deployment efficiency by **30%**.
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `tRPC` `OpenAI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [AetherAI](https://github.com/upendra80026)
-*Jan 2026*
-
-AI knowledge assistant — upload PDFs, ask context-aware questions, get answers via Gemini API. Voice conversations, JWT auth, real-time chat with conversation history.
-
-`React.js` `Node.js` `Gemini API` `Web Speech API` `JWT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ❓ [FAQForge](https://github.com/upendra80026)
-*Dec 2025*
-
-FAQ automation platform that crawls websites and generates structured FAQs via OpenAI — cut manual creation time by **85%**, 95% extraction accuracy across 50+ pages per crawl.
-
-`React.js` `Node.js` `MongoDB` `OpenAI`
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Certifications
-
+## 📜 Certifications
 - **Meta** – Full-Stack Developer Professional Certificate
 - **Oracle** – Generative AI Professional Certificate
 - **Infosys Springboard** – Artificial Intelligence Certification
-
-</td>
-</tr>
-</table>
 
 <br/>
 
