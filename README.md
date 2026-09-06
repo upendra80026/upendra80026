@@ -26,7 +26,7 @@ role: Full-Stack Developer (MERN & Next.js)
 education: B.Tech, Computer Science - Chandigarh Engineering College
 focus: Building AI-powered, production-style web applications
 achievements:
-  - 290+ DSA problems solved on LeetCode
+  - 380+ DSA problems solved on LeetCode
   - 5-Star rating in Java on HackerRank
   - SIH 2024 & SIH 2025 participant
   - District-level Badminton Tournament representative
