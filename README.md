@@ -77,23 +77,6 @@ contact: upendra80026@gmail.com
 
 <br/>
 
-## 💼 Featured Projects
-
-> ✏️ *Replace these with your real repos — title, one-line description, and live/repo links.*
-
-<div align="center">
-
-<a href="https://github.com/upendra80026/PROJECT-REPO-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=upendra80026&repo=PROJECT-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/upendra80026/PROJECT-REPO-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=upendra80026&repo=PROJECT-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
-<br/>
-
 ## 📜 Certifications
 - 🎓 **Meta** – Full-Stack Developer Professional Certificate
 - 🎓 **Oracle** – Generative AI Professional Certificate
